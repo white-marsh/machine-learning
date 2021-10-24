@@ -1,5 +1,6 @@
 from sklearn.neighbors import KNeighborsRegressor
 
+# Have a program in the Linear regression algorithm better than this
 l1 = []
 l2 = []
 for i in range(1, 1001):
